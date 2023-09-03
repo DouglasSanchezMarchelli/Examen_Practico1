@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\bin\Debug\net7.0\ExamenPractico1clave2.exe
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\bin\Debug\net7.0\ExamenPractico1clave2.deps.json
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\bin\Debug\net7.0\ExamenPractico1clave2.runtimeconfig.json
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\bin\Debug\net7.0\ExamenPractico1clave2.dll
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\bin\Debug\net7.0\ExamenPractico1clave2.pdb
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.AssemblyInfo.cs
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.dll
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\refint\ExamenPractico1clave2.dll
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.pdb
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ExamenPractico1clave2.genruntimeconfig.cache
+C:\Users\User\Desktop\PARCIAL 1 DAE\ExamenPractico1clave2\obj\Debug\net7.0\ref\ExamenPractico1clave2.dll
